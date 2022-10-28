@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "77c37b7cbae54873",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5715c4f5f3ffb76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5909a81c5d8a6a42",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3b2b638dc3c463b",
+    "type": "split",
+    "children": [
+      {
+        "id": "33e70af2449beee4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c5f97035d2e9896",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a9a8259e9f91e466",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dbf930ad44873007",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ca54c8ff48717661",
+    "type": "split",
+    "children": [
+      {
+        "id": "95792cc1e7d5af96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fc20c3473c3d20a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5edfd036e4a47b3e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be12d552c1c737f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d6682cf28e88405a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "5909a81c5d8a6a42",
+  "lastOpenFiles": [
+    "Notes/Geografija/Klima.md",
+    "Notes/Geografija/Sastav i nastanak geografskih celina.md",
+    "Notes/Markdown.md",
+    "Untitled.md"
+  ]
+}
